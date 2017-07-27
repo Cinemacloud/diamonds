@@ -4,33 +4,33 @@
 
 **Diamonds** is an isomorphic fullstack seed with generators for Angular & Polymer +Express distributed web & native applications delivering **hexagonal microservices** as components and elements. Imported popular packages are SNS, E-Commerce, and Mail-Messaging APIs servicing Polymer+Angular clientele on web, mobile, or native devices.
 
-##### [<span class="octicon octicon-link"></span>](#devops-in-browser)Generators
+##### **Generators**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> ./d.js (c|r|u|d) [type] Element_Name(+pattern)`<br><br>
 [![](http://cinemacloud.co/cloud_facets.png?.52)](#)
 
-##### [<span class="octicon octicon-link"></span>](#devops-in-browser)**Faceting**
+##### **Faceting**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> pm2 start d.js -i 3 --name <APPNAME>`<br><br>
 Facets are public at http://&lt;n_facet_host&gt;:8080/ once above command runs pm2 cluster profile.
 <br><br>
 On creation "facets" gen SSH keys within your Diamond cluster so apps can share code & data as if a unified app & fs.
 
-##### [<span class="octicon octicon-link"></span>](#devops-in-browser)**Browser Model & Code Editing**
+##### **Browser Model & Code Editing**
 **Model:** Compose relational data model with *wwwsqldesigner* allowing visually scoring of model.<br>
 **Control:** Live edit elements+components in NoIDE's *Ace* supporting livereload and browsersync.
 <br>GAnalytics, Stripe, and social network oauth configs are here as well.
 URL: http://&lt;n_facet_host&gt;:8080/edit
 <br><br>
-##### [<span class="octicon octicon-link"></span>](#devops-in-browser)**Performance Monitors**
+##### **Performance Monitors**
 View Prometheus-Grafana performance data for each facet (aka Diamond server) at
 URL: http://&lt;n_facet_host&gt;:8080/perf
 
-##### [<span class="octicon octicon-link"></span>](#polybuild-closure-compiler-and-deploy-web)PolyBuild, Closure Compiler, and Deploy
+##### **PolyBuild, Closure Compiler, and Deploy**
 
 | <img src=http://cinemacloud.co/stamp.png width=72 height=72> | <img src=http://cinemacloud.co/closure.png width=72 height=72> | <img src=http://cinemacloud.co/deploy.png width=72 height=72> |
 | --- | --- | --- |
 | WebComponent build tool | Angular's Production ES Optimizer| PM2 Deployment |
 
-##### [<span class="octicon octicon-link"></span>](#deploy-device--mobile)Deploy Desktop, Device, & Mobile
+##### **Deploy Desktop, Device, & Mobile**
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> d.js deploy [ web:default | all | mobile | desktop | device ];` // Performs Web, Ionic, & Electron build targets;
 
