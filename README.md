@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage">
 
-![Diamonds Logo](http://cinemacloud.co/diamondstack.png?56)
+![Diamonds Logo](http://cinemacloud.co/diamondstack.png?57)
 
 **Diamonds** is an isomorphic fullstack seed with generators for Angular & Polymer +Express distributed web & native applications delivering **hexagonal microservices** as components and elements. Imported popular packages are SNS, E-Commerce, and Mail-Messaging APIs servicing Polymer+Angular clientele on web, mobile, or native devices.
 
