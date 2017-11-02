@@ -45,7 +45,7 @@ browsersync<br>
 generator-polymer<br>
 express-ratelimit<br>
 express-validation<br>
-lovefield<br>
+lovepouch = lovefield + pouchdb<br>
 leveldb<br>
 level-sublevel<br>
 connect-leveldb<br>
