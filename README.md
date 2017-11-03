@@ -70,7 +70,7 @@ Optmizations<br>
 <sub>[Prototypes as Behaviors in Polymer](https://www.polymer-project.org/1.0/docs/devguide/behaviors)</sub><br>
 <sub>[Prototypes as Custom Elements](https://www.polymer-project.org/1.0/docs/devguide/registering-elements)</sub>
 
-Database - Provides both KV+SQL layers via browser & node 
+Database - Provides both KV+SQL layers via browser & node<br>
 <sub>[PouchDB](https://github.com/pouchdb/pouchdb)</sub><br>
 <sub>[Lovefield](https://github.com/google/lovefield)</sub><br>
 
