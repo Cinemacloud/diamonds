@@ -47,7 +47,8 @@ browsersync<br>
 generator-polymer<br>
 express-ratelimit<br>
 express-validation<br>
-lovepouch = lovefield (sql) + pouchdb (kv)<br>
+lovefield (sql)<br>
+pouchdb (kv)<br>
 bluebird<br>
 grunt-ts<br>
 yarn<br>
