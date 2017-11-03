@@ -71,8 +71,9 @@ Optmizations<br>
 <sub>[Prototypes as Custom Elements](https://www.polymer-project.org/1.0/docs/devguide/registering-elements)</sub>
 
 Database<br>
-<sub>[LevelDB](https://github.com/google/leveldb)</sub><br>
-<sub>[Data Mapping](http://agiledata.org/essays/mappingObjects.html)</sub><br>
+* Provides both KV+SQL Browser/Node DB layer
+<sub>[PouchDB](https://github.com/pouchdb/pouchdb)</sub><br>
+<sub>[Lovefield](https://github.com/google/lovefield)</sub><br>
 
 Clusters<br>
 <sub>[PM2](https://github.com/Unitech/pm2) ([vs Node's cluster module](https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/))</sub><br>
