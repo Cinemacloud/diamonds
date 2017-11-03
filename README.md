@@ -38,6 +38,8 @@ URL: http://&lt;n_facet_host&gt;:8080/perf
 <sup>
 angular<Br>
 angular-cli<br>
+angular-seed<br>
+ angular-seed-advanced<br>
 polymer-cli<br>
 closure-compiler<br>
 electron, ionic<br>
@@ -45,12 +47,10 @@ browsersync<br>
 generator-polymer<br>
 express-ratelimit<br>
 express-validation<br>
-lovepouch = lovefield + pouchdb<br>
-leveldb<br>
-level-sublevel<br>
-connect-leveldb<br>
+lovepouch = lovefield (sql) + pouchdb (kv)<br>
 bluebird<br>
 grunt-ts<br>
+yarn<br>
 pm2<br>
 web-component-tester.</sup>
 
