@@ -2,8 +2,11 @@
 
 ![Diamonds Logo](http://cinemacloud.co/diamondstack.png?58)
 
-**Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed** web & native applications of 
-**microservices** for components and elements. 
+**Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed microservice** web & native apps.<br>
+<br><br>
+- A diamond is a set of decentralized user-defined facet(s). 
+- A facet is host-specific set of pages or 'apps' in Angular.
+- A page contains components and/or modules
 
 ##### **Generators**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> ./d.js (c|r|u|d) [type] Element_Name(+pattern)`<br><br>
@@ -48,8 +51,7 @@ browsersync<br>
 generator-polymer<br>
 express-ratelimit<br>
 express-validation<br>
-lovefield (sql)<br>
-pouchdb (kv)<br>
+typeorm<br>
 bluebird<br>
 grunt-ts<br>
 yarn<br>
