@@ -2,7 +2,8 @@
 
 ![Diamonds Logo](http://cinemacloud.co/diamondstack.png?58)
 
-**Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed** web & native applications of ** microservices** powering components and elements. 
+**Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed** web & native applications of 
+**microservices** for components and elements. 
 
 ##### **Generators**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> ./d.js (c|r|u|d) [type] Element_Name(+pattern)`<br><br>
