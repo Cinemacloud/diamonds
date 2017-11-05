@@ -59,7 +59,6 @@ pm2<br>
 web-component-tester.</sup>
 
 ##### [<span class="octicon octicon-link"></span>](#source-projects)Source Projects
-<sub>[Hex Architecture](http://victorsavkin.com/post/42542190528/hexagonal-architecture-for-rails-developers)</sub><br><br>
 UI Tools<br>
 <sub>[Angular](/tachy0n/diamonds/blob/master/angularjs.org)</sub><br>
 <sub>[Polymer](/tachy0n/diamonds/blob/master/www.polymer-project.org) [1.0 Element Catalog](https://elements.polymer-project.org/)</sub><br>
