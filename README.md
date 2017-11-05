@@ -73,9 +73,8 @@ Optmizations<br>
 <sub>[Prototypes as Behaviors in Polymer](https://www.polymer-project.org/1.0/docs/devguide/behaviors)</sub><br>
 <sub>[Prototypes as Custom Elements](https://www.polymer-project.org/1.0/docs/devguide/registering-elements)</sub>
 
-Database (KV+SQL layers)<br>
-<sub>[PouchDB](https://github.com/pouchdb/pouchdb)</sub><br>
-<sub>[Lovefield](https://github.com/google/lovefield)</sub><br>
+Database (ORM)<br>
+<sub>[TypeORM](https://github.com/typeorm/typeorm)</sub><br>
 
 Clusters<br>
 <sub>[PM2](https://github.com/Unitech/pm2) ([vs Node's cluster module](https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/))</sub><br>
