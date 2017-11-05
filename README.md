@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage">
 
-![Diamonds Logo](http://cinemacloud.co/diamondstack.png?58)
+![Diamonds Logo](http://cinemacloud.co/diamondstack.png?112017)
 
 **Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed microservice** web & native apps.<br>
 <br>
