@@ -3,7 +3,8 @@
 ![Diamonds Logo](http://cinemacloud.co/diamondstack.png?3)
 
 **Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed microservice** web & native apps.<br>
-A unit (Diamond) provides clustered unified custom facets as host specific set of pages aka 'apps' and web components.
+Diamond units provide clustering for unified custom facets as edge pages aka 'apps' and web components.<br>
+
 
 ##### **Generators**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> ./d.js (c|r|u|d) [type] Element_Name(+pattern)`<br><br>
