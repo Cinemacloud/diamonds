@@ -3,7 +3,7 @@
 ![Diamonds Logo](http://cinemacloud.co/diamondstack.png?58)
 
 **Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed microservice** web & native apps.<br>
-<br><br>
+<br>
 - A diamond is a set of decentralized user-defined facet(s). 
 - A facet is host-specific set of pages or 'apps' in Angular.
 - A page contains components and/or modules
