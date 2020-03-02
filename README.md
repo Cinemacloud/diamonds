@@ -8,7 +8,7 @@ Diamond units provide clustering for unified custom facets as edge pages aka 'ap
 
 ##### **Generators**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> ./d.js (c|r|u|d) [type] Element_Name(+pattern)`<br><br>
-[![](http://cinemacloud.co/cloud_facets.png?.52)](#)
+[![](https://i.ibb.co/cX7xDZp/facet.png?.52)](#)
 
 ##### **Faceting**
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `$> pm2 start d.js -i 3 --name <APPNAME>`<br><br>
