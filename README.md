@@ -28,7 +28,7 @@ URL: http://&lt;n_facet_host&gt;:8080/perf
 
 ##### **PolyBuild, Closure Compiler, and Deploy**
 
-| <img src=https://i.ibb.co/3NVrFS0/stamp.png width=72 height=72> | <img src=https://i.ibb.co/8sgC1rL/closure.png width=72 height=72> | <img src=https://i.ibb.co/fXBs3Qh/deploy.png width=72 height=72> |
+| <img src=https://i.ibb.co/3NVrFS0/stamp.png width=128 height=128> | <img src=https://i.ibb.co/8sgC1rL/closure.png width=128 height=128> | <img src=https://i.ibb.co/fXBs3Qh/deploy.png width=128 height=128> |
 | --- | --- | --- |
 | WebComponent build tool | Angular's Production ES Optimizer| PM2 Deployment |
 
