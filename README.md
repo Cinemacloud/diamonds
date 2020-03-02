@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage">
 
-![Diamonds Logo](http://cinemacloud.co/diamondstack.png?3)
+![Diamonds Logo](https://ibb.co/XzChPKy?3)
 
 **Diamonds** are isomorphic seeds & generators for Angular/Polymer ⇄ Express **distributed microservice** web & native apps.<br>
 Diamond units provide clustering for unified custom facets as edge pages aka 'apps' and web components.<br>
